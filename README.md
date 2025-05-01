@@ -14,7 +14,7 @@ Welcome to **Track Your Commute**, a summer research project developed by Rhane 
 
 **Track Your Commute** is a tool designed to gather and analyze data about users' commuting habits. By tracking movement, users can gain insights into their travel times, distances, and preferred routes. This information can be valuable for optimizing daily commutes, reducing travel time, and improving overall efficiency.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fa-zhr0_Uqg?si=QWPjO_OGNsWwK_zJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/Fa-zhr0_Uqg/0.jpg)](https://www.youtube.com/watch?v=Fa-zhr0_Uqg)
 
 ## Features
 
